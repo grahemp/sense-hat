@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "pwm-miniweatherstation",
+  "private_key_id": "964cc34faf896c56dbbc9eb1655a4b258726fd20",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDQTA+NpZRLGlap\nQta72ydGCNAwDLiquuqd/3pihQQqlENM1NRzMZXpl8cWov/59SsSxELV8GKnnTDH\n5YvQJuYY1Ay0KWtaPFa41vAVF9qV8Kvk7Z3xoBXSHLo1EvXbHrPYPSUVQEoxgZh8\nLBRGLfkjePiXlwt4NAwcRDSnvwIkF1AGNg2VvJIHmfZl5YO0hQ6ihMvcho+IU6sX\nFMuc8UKcF3EaQllFXYbzBwd3XBF8j+fH+fYNyvltav8ZVwN/POKyVo2ShYxge9xS\nXMunsPCqbMeyIIWyyLKdjnMLBsWWqPytxe/Off8/X5ySs0V/rbcTzTBfccNDnhPb\nGUsty9ejAgMBAAECggEBALLwZHwevmI2YjROAwKmpfp4H8DnbMzefib1DkIMWyPo\n8lfSjh/XfR2LEbDUnmowv6wDhhcbxuSPGRTgkVdj00+I+tDatCp0o1tu6hh0wYcF\nleW4a3LjP1uc6iol+6cdnQoqnOzAqfwVhNVHWLNhUyGyDnzLeULuE2lE/qcMY95z\ny2GwneOlTTPqS1o7edEPUMZJPVnAmYOvyEXP6Zl34+W/M51ClrSoUrE+aPV70ZAx\ntcIryui++5dT4HgW9w1E3wJWqoCMoVAShZWnOIaw5R1dy0FzmFB+2bC1lY8LmEkO\n2NbuXq4QzkeZYbD/hvseJdYd/UaR0OeToDcX7ZrUJmECgYEA8QIg0V+6/5cWKWJ2\n4o6LQYmT9yeb9IAT58NrCWOwXA3PwhWJwtWpNJu0ytoP3eMvrY3bhn1yonII2cDi\nTllioa47aMX2ztlIUrTDhSP0lS3HVVulrQ4xh47CviQPuPP4xrJv75FzY/lp7PiM\nzjLmpQT+31iMitAjKgj3NMS4MV0CgYEA3UEIKOTRPe5l8GMgQYe25XZiCU/RLoUI\nbzeLDz6mDr6S8Mj/uN7EM/WlKlFJCoep74c/keafJSwFcO+oWRiOqYeLiyE/Az2Y\nF8+O6pm8tC5Lz92IdhSLC3wlnoJzjRipU7rOujYrKXem0NJBa8+jG6RQeX5JkVAM\nBTfcCpNWnP8CgYBmJA/CjH7VGbQzv95AsEbGdMc35RqMaceF3uU7Knuw182oJLao\n0yKOADuECRzWXhVzyX4zJnFx9UBZAQ0oRWuuuAfHpLav/ZhQLPn8MDvVCXzEaT3y\n9OP63n8cVG4xZXyWwUL9VjiAM1E4NDKApUPoxhA6me2eWw28H+ac/45MpQKBgG4f\nTxtjgA2uGYjDHavgC5U8DeGKm5fm2OLaJ1mIGgieq+4ybK0sG0WtTu64FH2sNlWk\n4GwS+ET9Gxwx/H2T7nXMpBS0kHNhddDsGrsDl9uqa0tjfOcgpHAr82FolnC0xJqL\nERe3nFYAWsP20l8BsrIwX2mJBL7Rs5npSpjs6qArAoGBAL7z9tgcBfefYn2G0l+G\nYq6gKADt/NgS8f7ZdqGi+LcGGLiNdUumbKBtNJEguUSCavsVemaqZYSOptU/cURw\nyNXR1HYnyQYMFEAnXwIjvk9iPmwL/+PQV0P7yXOkoTtd1PBFHJNwVFM6K8m0hdVL\n8Y2gTyyJ7BaUFpbZiPs/FeFS\n-----END PRIVATE KEY-----\n",
+  "client_email": "data-entry@pwm-miniweatherstation.iam.gserviceaccount.com",
+  "client_id": "106623112574403610589",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/data-entry%40pwm-miniweatherstation.iam.gserviceaccount.com"
+}
