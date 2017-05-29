@@ -6,4 +6,4 @@ I created a script that manipulates the LEDs and displays the time.  I use this 
 I run this through crontab every quarter hour.
 0,15,30,45 * * * * /home/pi/sense-hat/python-sense-hat/show-time.py
 
-
+timer.py is a program to be a timer for a pomodoro session.
